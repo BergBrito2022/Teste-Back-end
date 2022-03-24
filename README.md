@@ -1,4 +1,4 @@
-# Teste Hyperativa - Back-End Jr
+# Teste - Back-End
 
 Projeto desenvolvido em [Angular CLI](https://github.com/angular/angular-cli) versão 7.2.2.
 
